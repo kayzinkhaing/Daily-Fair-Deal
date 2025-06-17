@@ -41,10 +41,10 @@
 
 ### Clone the Repository
 
-<!-- ```bash
-git clone https://github.com/RideAndSavor/rideAndSavor.git
-cd rideAndSavor
-``` -->
+```bash
+git clone https://github.com/kayzinkhaing/Daily-Fair-Deal.git
+cd rideAndSavor 
+```
 
 ### Backend Setup
 
@@ -81,8 +81,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-* [Website](https://dailyfairdeal.com/)
-* [GitHub Repo](https://github.com/RideAndSavor/rideAndSavor)
+* [GitHub Repo](https://github.com/kayzinkhaing/Daily-Fair-Deal)
 
 ---
 
